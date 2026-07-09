@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R package/build files, if relevant
+*.Rcheck/
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.log
