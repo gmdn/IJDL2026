@@ -89,7 +89,10 @@ annotaterm/
 ├── www/
 │   ├── annotaterm.js
 │   └── style.css
-├── data/
+├──survey/
+│   ├── questions.csv
+│   └── answers.csv
+│   └── README.md
 └── README.md
 ```
 
@@ -146,6 +149,20 @@ Each row corresponds to one fragment.
 ### Annotation objects
 
 Fragments belonging to the same annotation are grouped together.
+
+---
+
+## Evaluation Data
+
+The repository includes the anonymized data from the preliminary user evaluation described in the accompanying IJDL paper.
+
+The `survey/` folder contains:
+
+- `questions.csv` – the questionnaire structure;
+- `answers.csv` – anonymized participant responses;
+- `README.md` – documentation describing the survey design and the released data.
+
+The published dataset contains only anonymized information and no personally identifiable data.
 
 ---
 
