@@ -1,0 +1,11 @@
+﻿Question,Text,Reponses
+Q1,Previous experience with annotation tools ,“Expert” “moderate” “limited” “none”
+Q2,Did you complete the annotation task?,“Yes” “partially” “no”
+Q3,The interface was easy to understand at first use.,Liker scale 1-5
+Q4,Selecting fragments and creating annotations was straightforward.,Liker scale 1-5
+Q5,The distinction between simple and composite terms was clear.,Liker scale 1-5
+Q6,The tool made it easy to annotate terms within terms and overlapping cases.,Liker scale 1-5
+Q7,The annotation tables and highlighted preview helped me monitor my work.,Liker scale 1-5
+Q8,"Overall, the tool was suitable for the annotation task.",Liker scale 1-5
+Q9,What aspects of the tool were most useful during the annotation task?,Open question
+Q10,"What difficulties did you encounter, or what would you improve?",Open question
