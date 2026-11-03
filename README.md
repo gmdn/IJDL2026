@@ -174,9 +174,9 @@ Di Nunzio, G. M., & Vezzani, F.
 
 **Annotaterm: A Fragment-Based Annotation Environment for Discontinuous and Overlapping Terms in Digital Library Workflows.**
 
-*International Journal on Digital Libraries (IJDL).*
+*International Journal on Digital Libraries (IJDL). Volume 27, article number 11 (2026)*
 
-*(to appear)*
+*[DOI](https://doi.org/10.1007/s00799-026-00447-x)*
 
 ---
 
