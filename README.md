@@ -200,7 +200,7 @@ BibTeX will be added once the article is published.
 
 ## License
 
-MIT License.
+Apache-2.0 License.
 
 ---
 
